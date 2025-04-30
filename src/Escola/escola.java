@@ -5,6 +5,7 @@ public class escola {
         Aluno felipe = new Aluno();
         felipe.setNome("Felipe");
         felipe.setIdade(8);
+        felipe.setSexo("masculino");
 
         System.out.println("O aluno " + felipe.getNome() + " tem " + felipe.getIdade() + " anos ");
     }
