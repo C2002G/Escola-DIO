@@ -7,7 +7,7 @@ public class Pessoa {
 
 
 
-    // construtores
+    // construtores (usar somente para finalidades obrigatorias)
 
     public Pessoa(String nome, String cpf) {
         this.nome = nome;
