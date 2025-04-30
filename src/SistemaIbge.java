@@ -3,7 +3,7 @@ public class SistemaIbge {
         for(EstadoBrasileiro e: EstadoBrasileiro.values()){
             //System.out.println(e.getSigla() + " - " + e.getNome());
         }
-                  //       declara
+                  //       declara enums
         EstadoBrasileiro escolhe = EstadoBrasileiro.RIO_GRANDE_DO_SUL;
 
         System.out.println(escolhe.getSigla());
